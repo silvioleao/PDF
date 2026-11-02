@@ -1,5 +1,0 @@
-streamlit
-pypdf
-sentence-transformers
-numpy
-huggingface_hub
